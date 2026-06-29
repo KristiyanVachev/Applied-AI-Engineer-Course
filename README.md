@@ -31,9 +31,9 @@ Practical over theoretical. Each session gives you the **key concepts and the re
 
 | | |
 |---|---|
-| **Duration** | 12-15 weeks |
-| **Session** | TBD |
-| **Schedule** | evenings (≈18:00–22:00), to fit working students and lecturers |
+| **Duration** | 10-15 weeks |
+| **Session** | TBD - Sofia University FMI Elective Course|
+| **Schedule** | evenings, to fit working students and lecturers |
 | **Teams** | groups of 3–5 for the project |
 | **Lecturers** | a different industry expert per topic, ideally with 1–2 helpers in the lab |
 
